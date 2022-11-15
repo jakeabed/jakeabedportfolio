@@ -1,0 +1,22 @@
+/* CSS HEX
+--onyx: #383d3bff;
+--english-vermillion: #d64550ff;
+--honey-yellow: #ffae03ff;
+--ghost-white: #f0eff4ff;
+--white: #fbfffeff;
+
+/* CSS HSL 
+--onyx: hsla(156, 4%, 23%, 1);
+--english-vermillion: hsla(355, 64%, 55%, 1);
+--honey-yellow: hsla(41, 100%, 51%, 1);
+--ghost-white: hsla(252, 19%, 95%, 1);
+--white: hsla(165, 100%, 99%, 1);
+*/
+
+body {
+    background-color: #f0eff4ff;
+}
+
+h1, h2, h3, h4, h5, p, li {
+    color: #383d3bff;
+}
